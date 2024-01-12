@@ -2,7 +2,7 @@
 
 Fix the bug that the popup box being fixed above the taskbar when the Win + number key shortcut is pressed.
 
-![inAppScreen](https://github.com/wuutae/win-num-popup-fix/assets/93018857/5eb6496b-6d5e-414f-93ea-cbf0e5ab3921)
+![inAppScreen](https://github.com/wuutae/fix-win-num-popup/assets/93018857/9b77ed43-dd87-4a78-8b59-a7aa2a5e919b)
 
 # Feature
 If the Win is released too quickly after pressing Win + number key shortcut, the program keeps the Win key held down for a short time and release it.
